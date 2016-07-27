@@ -1,0 +1,26 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "deniz's first trial for mean app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denizgrad/meanapp.git"
+  },
+  "keywords": [
+    "mean",
+    "node"
+  ],
+  "author": "deniz ozen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denizgrad/meanapp/issues"
+  },
+  "homepage": "https://github.com/denizgrad/meanapp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
